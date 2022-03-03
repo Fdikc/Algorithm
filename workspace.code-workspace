@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\C_code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"chrono": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"valarray": "cpp",
+			"*.tcc": "cpp",
+			"cinttypes": "cpp",
+			"cmath": "cpp",
+			"complex": "cpp",
+			"numeric": "cpp",
+			"ratio": "cpp",
+			"cstdlib": "cpp"
+		}
+	}
+}
