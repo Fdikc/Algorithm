@@ -33,7 +33,7 @@ int Paritition1(int A[], int low, int high)
     return low;
 }
 
-void QuickSort(int A[], int low, int high) //¿ìÅÅÄ¸º¯Êı
+void QuickSort(int A[], int low, int high) //å¿«æ’æ¯å‡½æ•°
 {
     if (low < high)
     {

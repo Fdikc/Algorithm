@@ -3,7 +3,7 @@
 #include<chrono>
 using namespace std;
 using namespace std::chrono;    
-///Éú²úËæ»úÊı
+///ç”Ÿäº§éšæœºæ•°
 int main(int argc, char const *argv[])
 {
     auto seed=high_resolution_clock::now().time_since_epoch().count();
