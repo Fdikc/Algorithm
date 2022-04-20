@@ -1,6 +1,9 @@
 #include <iostream>
-
 using namespace std;
+/*
+最接近元素
+*/
+
 void FindCElement(int a[],int n,int m){
     for (int i = 0; i < m; i++)
     {
