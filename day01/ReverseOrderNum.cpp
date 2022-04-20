@@ -1,6 +1,8 @@
 
 #include <stdio.h>
-
+/*
+逆序数
+*/
 int ReversedCount(int A[],int n){
     int Sum = 0;
     for (int i = 1; i <= n; i++)
