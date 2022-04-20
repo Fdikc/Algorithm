@@ -4,6 +4,7 @@
 using namespace std;
 using namespace std::chrono;    
 ///生产随机数
+///
 int main(int argc, char const *argv[])
 {
     auto seed=high_resolution_clock::now().time_since_epoch().count();
