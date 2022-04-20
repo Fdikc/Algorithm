@@ -1,7 +1,10 @@
 #include <iostream>
 using namespace std;
 #define M 50
+/*
 
+时间戳
+*/
 bool visited[M];
 int dis[M]; //开始时间
 int fin[M]; //结束时间
