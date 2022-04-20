@@ -2,6 +2,7 @@
 using namespace std;
 /*
 图的基本概念——连通分支数
+
 */
 
 int n, m;
