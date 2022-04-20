@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 void FindCElement(int a[],int n,int m){
     for (int i = 0; i < m; i++)
