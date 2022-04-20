@@ -2,6 +2,10 @@
 #include <iostream>
 #include <ctime>
 using namespace std;
+
+/*
+冒泡算法
+*/
 int main(void)
 {
     time_t begin, end;
